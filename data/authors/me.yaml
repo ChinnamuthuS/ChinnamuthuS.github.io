@@ -1,6 +1,3 @@
-
-
-
 schema: hugoblox/author/v1
 slug: me
 is_owner: true
@@ -9,25 +6,24 @@ name:
   display: Dr. Chinnamuthu S
   given: Chinnamuthu
   family: S
-  pronouns: '' # Optional (e.g., they/them, she/her, he/him), or leave empty
+  pronouns: ''
 
 postnominals:
   - PhD
-  # - SMIEEE # Add IEEE, ACM, or other professional memberships if applicable
 
 role: Assistant Professor of Mathematics
 
 bio: |
   I am a faculty member in the Department of Mathematics at National Institute of Technology Rourkela.
-  My research focuses on Machine Learning.
+  My research focuses on randomized neural networks, extreme learning machines, and efficient numerical optimization for machine learning.
 
 affiliations:
   - name: National Institute of Technology Rourkela
-    #  url: https://www.youruniversity.edu/
+    url: https://www.nitrkl.ac.in/
 
 links:
   - icon: at-symbol
-    url: mailto:your.email@university.edu
+    url: mailto:your.email@nitrkl.ac.in
     label: Email
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=pbpXEOEAAAAJ&hl=en
@@ -39,67 +35,68 @@ links:
     url: https://github.com/ChinnamuthuS
     label: GitHub
   - icon: brands/linkedin
-    url: linkedin.com/in/chinnamuthu-subramani-755133264
+    url: https://www.linkedin.com/in/chinnamuthu-subramani-755133264
     label: LinkedIn
 
 interests:
-  - Core Area 1
-  - Core Area 2
-  - Core Area 3
-  - Core Area 4
+  - Randomized Neural Networks (RVFL, SCN)
+  - Extreme Learning Machines (ELM)
+  - Numerical Linear Algebra & Matrix Approximations
+  - Scientific Machine Learning
 
 education:
   - degree: Ph.D. in Mathematics
     institution: National Institute of Technology Goa
-    start: 2019-12-30
-    end: 2025-04-22
+    start: '2019-12-30'
+    end: '2025-04-22'
     summary: 'Dissertation: Efficient Computational Algorithms for Randomized Neural Networks.'
 
-   - degree: M. Sc. in Mathematics
+  - degree: M.Sc. in Mathematics
     institution: Bharathiar University
-    start: 2012
-    end: 2014
-    
+    start: '2012-08-01'
+    end: '2014-05-30'
 
   - degree: B.Sc. in Mathematics
     institution: Bharathiar University
-    start: 2009
-    end: 2012
+    start: '2009-08-01'
+    end: '2012-05-30'
 
 experience:
   - role: Assistant Professor Grade II
     org: National Institute of Technology Rourkela
-    start: 2023-08-01
+    start: '2023-08-01'
     summary: 'Department of Mathematics.'
 
   - role: Postdoctoral Researcher
     org: Center for Responsible AI (CeRAI), Wadhwani School of Data Science and AI (WSAI), IIT Madras
-    start: 2026-06-03
-    end: 2026-10-15
+    start: '2026-06-03'
+    end: '2026-10-15'
 
   - role: Assistant Professor Level 10
     org: Amrita Vishwa Vidyapeetham, Amaravati Campus
-    start: 2025-07-21
-    end: 2026-05-25
+    start: '2025-07-21'
+    end: '2026-05-25'
     summary: 'Department of Mathematics.'
 
-awards/fellowships:
-- title: GATE SRF
+awards:
+  - title: GATE SRF
     awarder: MHRD
-    date: Jan 2022 - Dec 2024
+    date: '2022-01-01'
+    summary: 'Senior Research Fellowship (Jan 2022 – Dec 2024)'
     icon: hero/trophy
 
-- title: GATE JRF 
+  - title: GATE JRF
     awarder: MHRD
-    date: Jan 2020 - Dec 2021
+    date: '2020-01-01'
+    summary: 'Junior Research Fellowship (Jan 2020 – Dec 2021)'
     icon: hero/trophy
 
-- title: Lectureship 
+  - title: Lectureship
     awarder: UGC-CSIR NET
-    date: Dec 2018
+    date: '2018-12-01'
     icon: hero/trophy
 
-  - title: UGC JRF (Rank 145)  
+  - title: UGC JRF (Rank 145)
     awarder: UGC-CSIR NET
-    date: July 2016
+    date: '2016-07-01'
     icon: hero/trophy
