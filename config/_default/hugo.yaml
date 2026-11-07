@@ -2,8 +2,6 @@
 # Guide: https://docs.hugoblox.com/tutorial/
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-ignoreFiles:
-  - 'content/blog/.*'
 
 # Website name (set in params.yaml under hugoblox.branding.name)
 title: 'Chinnamuthu S'
