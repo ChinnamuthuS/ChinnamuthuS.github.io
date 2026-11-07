@@ -38,15 +38,29 @@ sections:
     design:
       columns: '1'
 
+  # --- JOURNAL ARTICLES ---
   - block: collection
-    id: papers
+    id: journals
     content:
-      title: Selected Publications
+      title: Peer-Reviewed Journals
       text: ''
       filters:
         folders:
           - publications
-        exclude_featured: false
+        publication_type: 'article-journal'
+    design:
+      view: citation
+
+  # --- CONFERENCE PROCEEDINGS ---
+  - block: collection
+    id: conferences
+    content:
+      title: Conference Proceedings
+      text: ''
+      filters:
+        folders:
+          - publications
+        publication_type: 'paper-conference'
     design:
       view: citation
 ---
