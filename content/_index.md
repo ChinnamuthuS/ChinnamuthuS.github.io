@@ -32,35 +32,22 @@ sections:
       title: 'Research Overview'
       subtitle: ''
       text: |-
-        Write 1 to 2 paragraphs here summarizing your lab or research agenda. Focus on the core questions you investigate, your methodological approach, and practical applications of your work.
+        I am an Assistant Professor in the Department of Mathematics at National Institute of Technology Rourkela.
 
-        Prospective students and collaborators should contact me via email.
+        My research focuses on randomized neural networks (RVFL, SCN), extreme learning machines (ELM), and efficient numerical optimization for machine learning.
     design:
       columns: '1'
 
-  # --- JOURNAL ARTICLES ---
   - block: collection
-    id: journals
+    id: papers
     content:
-      title: Peer-Reviewed Journals
+      title: Recent Publications
       text: ''
       filters:
         folders:
+          - publication
           - publications
-        publication_type: 'article-journal'
-    design:
-      view: citation
-
-  # --- CONFERENCE PROCEEDINGS ---
-  - block: collection
-    id: conferences
-    content:
-      title: Conference Proceedings
-      text: ''
-      filters:
-        folders:
-          - publications
-        publication_type: 'paper-conference'
+        exclude_featured: false
     design:
       view: citation
 ---
