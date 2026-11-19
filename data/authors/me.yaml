@@ -3,7 +3,7 @@ slug: me
 is_owner: true
 
 name:
-  display: Dr. Chinnamuthu S
+  display: Chinnamuthu S
   given: Chinnamuthu
   family: S
   pronouns: ''
@@ -14,8 +14,8 @@ postnominals:
 role: Assistant Professor of Mathematics
 
 bio: |
-  I am a faculty member in the Department of Mathematics at National Institute of Technology Rourkela.
-  My research focuses on randomized neural networks, extreme learning machines, and efficient numerical optimization for machine learning.
+  bio: |
+  I am an Assistant Professor of Mathematics at the National Institute of Technology Rourkela. I work on the mathematical foundations of machine learning, designing efficient and stable training algorithms for randomized neural networks using tools from numerical linear algebra, Probability, and optimization. My current interest is explainable AI (XAI), using mathematical structure to make model behaviour transparent. 
 
 affiliations:
   - name: National Institute of Technology Rourkela
@@ -23,7 +23,7 @@ affiliations:
 
 links:
   - icon: at-symbol
-    url: mailto:your.email@nitrkl.ac.in
+    url: mailto:schinnamuthu@nitrkl.ac.in
     label: Email
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=pbpXEOEAAAAJ&hl=en
@@ -39,10 +39,10 @@ links:
     label: LinkedIn
 
 interests:
-  - Randomized Neural Networks (RVFL, SCN)
-  - Extreme Learning Machines (ELM)
+  - Randomized Neural Networks (RVFL, SCN, and ELM)
+  - Explainable AI (AI)
   - Numerical Linear Algebra & Matrix Approximations
-  - Scientific Machine Learning
+  - Responsible AI
 
 education:
   - degree: Ph.D. in Mathematics
@@ -64,7 +64,8 @@ education:
 experience:
   - role: Assistant Professor Grade II
     org: National Institute of Technology Rourkela
-    start: '2023-08-01'
+    start: '2025-07-21'
+    end: '2026-05-25'
     summary: 'Department of Mathematics.'
 
   - role: Postdoctoral Researcher
