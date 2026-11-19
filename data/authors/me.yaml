@@ -47,19 +47,19 @@ interests:
 education:
   - degree: Ph.D. in Mathematics
     institution: National Institute of Technology Goa
-    start: '2019-12-30'
-    end: '2025-04-22'
+    start: '2019'
+    end: '2025'
     summary: 'Dissertation: Efficient Computational Algorithms for Randomized Neural Networks.'
 
   - degree: M.Sc. in Mathematics
     institution: Bharathiar University
-    start: '2012-08-01'
-    end: '2014-05-30'
+    start: '2012'
+    end: '2014'
 
   - degree: B.Sc. in Mathematics
     institution: Bharathiar University
-    start: '2009-08-01'
-    end: '2012-05-30'
+    start: '2009'
+    end: '2012'
 
 experience:
   - role: Assistant Professor Grade II
