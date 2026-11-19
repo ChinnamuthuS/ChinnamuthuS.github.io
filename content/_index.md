@@ -29,11 +29,9 @@ sections:
 
   - block: markdown
     content:
-      title: 'Research & Publications'
-      
-
-        ---
-
+      title: 'Publications'
+      subtitle: ''
+      text: |-
         ### Peer-Reviewed Journal Articles
 
         1. **Enhancing deep stochastic configuration networks: Efficient training via low-rank matrix approximation**  
