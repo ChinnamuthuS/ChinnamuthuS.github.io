@@ -30,10 +30,7 @@ sections:
   - block: markdown
     content:
       title: 'Research & Publications'
-      subtitle: ''
-      text: |-
-        ### Research Overview
-        I am an Assistant Professor in the Department of Mathematics at National Institute of Technology Rourkela. My research focuses on randomized neural networks (RVFL, SCN), extreme learning machines (ELM), and efficient numerical optimization for machine learning.
+      
 
         ---
 
